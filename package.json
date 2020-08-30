@@ -1,0 +1,12 @@
+{
+  "name": "soundtrap-export-midi",
+  "version": "1.0.0",
+  "description": "Export MIDI from Soundtrap",
+  "main": "index.js",
+  "keywords": ["soundtrap"],
+  "author": "Simon Cheng",
+  "license": "MIT",
+  "dependencies": {
+    "midi-writer-js": "^1.7.3"
+  }
+}
